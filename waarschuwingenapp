@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WaarschuwingenApp Privacy en Voorwaarden</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy en Voorwaarden</h1>
+        <p>Welkom bij de Privacy en Voorwaarden van de Veiligheidswaarschuwingen app</p>
+        <p>Voor het gebruik van de Veiligheidswaarschuwingen app bent u akkoord gegaan met onderstaande voorwaarden en bepalingen.</p>
+        
+        <h2>Omschrijving en doel</h2>
+        <p>De veiligheidswaarschuwingen app is een gratis app en is bedoeld om zo veel mogelijk terugroepacties en veiligheidswaarschuwingen in Nederland te bundelen en overzichtelijk te maken in één app. Dit ter ondersteuning voor u, zodat terugroepacties en waarschuwingen eerder en makkelijker bij u onder de aandacht kunnen komen.</p>
+        
+        <h2>Disclaimer</h2>
+        <p>De meeste veiligheidswaarschuwingen die gemeld worden in deze app zijn afkomstig van de website van het Ministerie van Voedsel- en Warenautoriteit. Deze app is echter door particulieren opgezet. De Nederlandse Overheid en het Ministerie van Voedsel- en Warenautoriteit hebben hier geen aandeel in.</p>
+        <p>Veiligheidswaarschuwingen voor auto’s worden niet meegenomen in deze app.</p>
+        
+        <h2>Hyperlinks</h2>
+        <p>De app bevat hyperlinks naar websites van derden. We hebben geen invloed op websites van derden en zijn niet verantwoordelijk voor de beschikbaarheid of inhoud daarvan.</p>
+        
+        <h2>Privacy verklaring</h2>
+        <p>Zodra u de Veiligheidswaarschuwingen App in gebruik neemt, gaat u akkoord met onze privacy voorwaarden.</p>
+        
+        <h2>Beveiliging</h2>
+        <p>Veiligheidswaarschuwingen App neemt de bescherming van uw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan.</p>
+        
+        <h2>Slot</h2>
+        <p>We behouden ons het recht voor deze voorwaarden en bepalingen op elk gewenst moment aan te passen.</p>
+        <p>Deze voorwaarden en privacy verklaring zijn van kracht vanaf 7 februari 2022.</p>
+    </div>
+</body>
+</html>
