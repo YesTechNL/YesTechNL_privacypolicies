@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcul8 – Hoe te spelen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calcul8 – Hoe te spelen</h1>
+
+        <h2>Doel van het spel</h2>
+        <p>Selecteer <strong>exact 3 knoppen</strong> om een wiskundige uitkomst te berekenen die gelijk is aan het <strong>doelgetal</strong> (target number).</p>
+
+        <h2>Spelregels</h2>
+        <ul>
+            <li>Je mag <strong>maar 3 knoppen</strong> selecteren per ronde.</li>
+            <li>De <strong>eerste knop</strong>: alleen het getal telt, het teken wordt genegeerd. Voorbeeld: <code>x3</code> of <code>-4</code> wordt gewoon <strong>3</strong> of <strong>4</strong>.</li>
+            <li>De <strong>volgende twee knoppen</strong> worden samen met de eerste gebruikt in een algebraïsche berekening volgens de standaard <strong>PEMDAS-volgorde</strong> (haakjes, machten, vermenigvuldigen/delen, optellen/aftrekken).</li>
+        </ul>
+
+        <h2>Voorbeelden</h2>
+
+        <h3>Voorbeeld 1</h3>
+        <p>
+            Gekozen knoppen: <code>x3</code>, <code>x2</code>, <code>+1</code><br>
+            Stap 1: Eerste knop wordt <strong>3</strong> (x3 → 3)<br>
+            Stap 2: Berekening: <code>3 x 2 + 1</code><br>
+            Resultaat: <strong>7</strong>
+        </p>
+
+        <h3>Voorbeeld 2</h3>
+        <p>
+            Gekozen knoppen: <code>-3</code>, <code>+2</code>, <code>x5</code><br>
+            Stap 1: Eerste knop wordt <strong>3</strong> (-3 → 3)<br>
+            Stap 2: Berekening: <code>3 + 2 x 5</code><br>
+            Volgens PEMDAS: <code>2 x 5 = 10</code>, dan <code>3 + 10 = 13</code><br>
+            Resultaat: <strong>13</strong>
+        </p>
+
+        <h2>Let op!</h2>
+        <ul>
+            <li>Er is altijd <strong>maar één juiste combinatie</strong> die leidt tot het doelgetal.</li>
+            <li>De volgorde van de knoppen bepaalt het resultaat!</li>
+        </ul>
+
+        <p>Veel speelplezier met Calcul8!</p>
+    </div>
+</body>
+</html>
